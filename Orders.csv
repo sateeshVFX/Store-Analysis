@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,City,Locality
+B-26055,10-03-2018,Harivansh,Gudur,Prakash Nagar
+B-25993,03-02-2018,Madhav,Kavali,Gandhi Nagar
+B-25973,24-01-2018,Madan Mohan,Gudur,Prakash Nagar
+B-25923,27-12-2018,Gopal,Sullurpet, Sriharikota
+B-25757,21-08-2018,Vishakha,Chillakur,Vakadu Beachside
+B-25967,21-01-2018,Sudevi,Gudur,Haranadhapuram
+B-25955,16-01-2018,Shiva,Sullurpet,Indira Nagar
+B-26093,27-03-2018,Sarita,Sullurpet,Indira Nagar
+B-25798,01-10-2018,Shishu,Nellore,Vedayapalem
+B-25602,01-04-2018,Vrinda,Sullurpet,Indira Nagar
+B-25858,13-11-2018,Uudhav,Sullurpet, Sriharikota
+B-25969,21-01-2018,Shreyshi,Atmakur,Marripadu Road
+B-26099,30-03-2018,Bhishm,Sullurpet, Sriharikota
+B-25997,04-02-2018,Yogesh,Sullurpet,Indira Nagar
+B-25881,25-11-2018,Lalita,Gudur,Prakash Nagar
+B-25761,25-08-2018,Madhav,Gudur,Prakash Nagar
+B-25887,01-12-2018,Vishakha,Gudur,Haranadhapuram
+B-25823,18-10-2018,Rohan,Sullurpet, Sriharikota
+B-25853,08-11-2018,Gaurav,Atmakur,Marripadu Road
+B-25862,15-11-2018,Amol,Venkatagiri,Venkatagiri Fort Area
+B-25830,26-10-2018,Aastha,Naidupet, Naidupet Town Center
+B-25786,19-09-2018,Madan Mohan,Gudur,Prakash Nagar
+B-25686,11-06-2018,Pooja,Naidupet, Naidupet Town Center
+B-26022,18-02-2018,Shrichand,Tada,ada Industrial Hub
+B-26003,08-02-2018,Hitesh,Chillakur,Chillakur Junction
+B-25755,19-08-2018,Shourya,Vakadu ,Vakadu Beachside Area
+B-25902,10-12-2018,Ishpreet,Sullurpet, Sriharikota
+B-25935,04-01-2018,Sudhir,Muthukur,Muthukur Port Area
+B-25797,30-09-2018,Sauptik,Chillakur,Vakadu Beachside
+B-25639,27-04-2018,Lisha,Chillakur,Chillakur Junction
+B-25681,04-06-2018,Bhawna,Chillakur,Vakadu Beachside
+B-25909,13-12-2018,Sujay,Sullurpet,Indira Nagar
+B-25910,14-12-2018,Jay,Kavali,Gandhi Nagar
+B-25950,13-01-2018,Shruti,Chillakur,Vakadu Beachside
+B-25613,12-04-2018,Mohan,Udayagiri,ada Industrial Hub
+B-25919,23-12-2018,Neha,Chejerla,Ramalayam Street 
+B-25768,01-09-2018,Shreyoshe,Manubolu,Manubolu Market Area
+B-25629,24-04-2018,Hemant,Vakadu ,Vakadu Beachside Area
+B-25729,22-07-2018,Madhulika,Chillakur,Chillakur Junction
+B-25943,09-01-2018,Shardul,Atmakur,Marripadu Road
+B-25842,02-11-2018,Sheetal,Sullurpet,Indira Nagar
+B-26073,21-03-2018,Pournamasi,Chillakur,Vakadu Beachside
+B-25778,11-09-2018,Surabhi,Sullurpet, Sriharikota
+B-25717,12-07-2018,Manshul,Gudur,Malvya Nagar
+B-26085,26-03-2018,Shrichand,Tada,ada Industrial Hub
+B-26048,04-03-2018,Parth,Sullurpet,Indira Nagar
+B-25793,24-09-2018,Siddharth,Chillakur,Vakadu Beachside
+B-25656,11-05-2018,Priyanka,Sullurpet,Indira Nagar
+B-25608,08-04-2018,Aarushi,Vidavalur,Vidavalur Rural Zone
+B-25752,14-08-2018,Vaibhav,Chillakur,Vakadu Beachside
+B-25779,12-09-2018,Savi,Sullurpet,Indira Nagar
+B-25603,03-04-2018,Jahan,Chillakur,Chillakur Junction
+B-26051,07-03-2018,Parishi,Sydapuram,Sydapuram Main Road
+B-25653,08-05-2018,Farah,Muthukur,Muthukur Port Area
+B-25855,08-11-2018,Abhijeet,Chillakur,Chillakur Junction
+B-25762,26-08-2018,Anudeep,Chillakur,Vakadu Beachside
+B-25995,04-02-2018,Yohann,Kavali,Gandhi Nagar
+B-25929,02-01-2018,Girase,Vakadu ,Vakadu Beachside Area
+B-26006,09-02-2018,Arpita,Manubolu,Manubolu Market Area
+B-25697,22-06-2018,Vijay,Udayagiri,Udayagiri Town
+B-25836,29-10-2018,Arti,Sullurpet,Indira Nagar
+B-25601,01-04-2018,Bharat,Atmakur,Marripadu Road
+B-25873,23-11-2018,Divyeta,Chillakur,Vakadu Beachside
+B-26028,20-02-2018,Manju,Nellore,Vedayapalem
+B-25964,20-01-2018,Oshin,Sullurpet,Indira Nagar
+B-25676,01-06-2018,Chandni,Chejerla,Chejerla Town Center
+B-25839,30-10-2018,Pranjali,Sydapuram,Sydapuram Main Road
+B-25894,04-12-2018,Monu,Tada,Tada Industrial Hub
+B-25925,29-12-2018,Shruti,Sullurpet, Sriharikota
+B-25953,14-01-2018,Krutika,Nellore,Vedayapalem
+B-25772,02-09-2018,Sanjana,Venkatagiri,Venkatagiri Fort Area
+B-25957,18-01-2018,Mahima,Chillakur,Vakadu Beachside
+B-25730,22-07-2018,Rishabh,Chejerla,Chejerla Town Center
+B-25877,24-11-2018,Dashyam,Atmakur,Marripadu Road
+B-26067,16-03-2018,Tulika,Chillakur,Chillakur Junction
+B-25810,10-10-2018,Nripraj,Tada,ada Industrial Hub
+B-25868,18-11-2018,Vikash,Rapur,Rapur
+B-26023,19-02-2018,Mukesh,Udayagiri,ada Industrial Hub
+B-25626,23-04-2018,Bhishm,Sullurpet, Sriharikota
+B-25937,05-01-2018,Ankit,Udayagiri,ada Industrial Hub
+B-25610,09-04-2018,Yogesh,Venkatagiri,Venkatagiri Fort Area
+B-25777,10-09-2018,Aditi,Chillakur,Vakadu Beachside
+B-25738,02-08-2018,Ayush,Tada,ada Industrial Hub
+B-25978,27-01-2018,Parin,Sullurpet, Sriharikota
+B-25643,29-04-2018,Kirti,Udayagiri,Udayagiri Town
+B-25728,22-07-2018,Ameesha,Sullurpet,Indira Nagar
+B-25749,13-08-2018,Ayush,Sullurpet, Sriharikota
+B-25667,23-05-2018,Anjali,Udayagiri,ada Industrial Hub
+B-25657,13-05-2018,Tulika,Chillakur,Chillakur Junction
+B-25753,17-08-2018,Shivam,Gudur,Malvya Nagar
+B-26061,14-03-2018,Anurag,Chillakur,Vakadu Beachside
+B-25838,29-10-2018,Sanjana,Chillakur,Vakadu Beachside
+B-25702,27-06-2018,Shaily,Sullurpet, Sriharikota
+B-25952,13-01-2018,Priyanka,Chillakur,Vakadu Beachside
+B-25666,22-05-2018,Tanvi,Tada,ada Industrial Hub
+B-25675,31-05-2018,Shreya,Chillakur,Chillakur Junction
+B-25650,06-05-2018,Chirag,Sullurpet, Sriharikota
+B-25986,31-01-2018,Shweta,Chejerla,Ramalayam Street 
+B-25850,05-11-2018,Abhishek,Rapur,Rapur
+B-25898,07-12-2018,Abhishek,Chejerla,Ramalayam Street 
+B-25813,10-10-2018,Hrisheekesh,Sullurpet, Sriharikota
+B-25825,21-10-2018,Kartik,Chillakur,Vakadu Beachside
+B-25954,14-01-2018,Trupti,Atmakur,Marripadu Road
+B-25696,21-06-2018,Noopur,Manubolu,Manubolu Market Area
+B-25638,26-04-2018,Parth,Sullurpet,Indira Nagar
+B-25747,11-08-2018,Harsh,Chillakur,Chillakur Junction
+B-25904,10-12-2018,Swapnil,Kavali,Gandhi Nagar
+B-25852,07-11-2018,Soumyabrata,Nellore,Vedayapalem
+B-25981,28-01-2018,Amruta,Kavali,Gandhi Nagar
+B-25899,08-12-2018,Aishwarya,Gudur,Haranadhapuram
+B-25870,20-11-2018,Pranav,Nellore,Vedayapalem
+B-26040,26-02-2018,Sahil,Tada,ada Industrial Hub
+B-25671,27-05-2018,Mitali,Muthukur,Muthukur Port Area
+B-26100,31-03-2018,Hitika,Chillakur,Vakadu Beachside
+B-25651,07-05-2018,Anurag,Chillakur,Vakadu Beachside
+B-25968,21-01-2018,Paromita,Tada,Tada Industrial Hub
+B-26019,15-02-2018,Jitesh,Gudur,Malvya Nagar
+B-25664,20-05-2018,Pratyusmita,Venkatagiri,Venkatagiri Fort Area
+B-26033,22-02-2018,Atharv,Sydapuram,Sydapuram Main Road
+B-26052,08-03-2018,Ajay,Manubolu,Manubolu Market Area
+B-25999,05-02-2018,Diwakar,Kavali,Gandhi Nagar
+B-25781,14-09-2018,Rutuja,Atmakur,Marripadu Road
+B-25764,28-08-2018,Sanjova,Sullurpet,Indira Nagar
+B-25803,05-10-2018,Shivanshu,Chillakur,Vakadu Beachside
+B-25945,11-01-2018,Mhatre,Chillakur,Vakadu Beachside
+B-26086,26-03-2018,Mukesh,Udayagiri,ada Industrial Hub
+B-25845,03-11-2018,Snel,Vakadu ,Vakadu Beachside Area
+B-25817,13-10-2018,Praneet,Sullurpet, Sriharikota
+B-25951,13-01-2018,Jesal,Sydapuram,Sydapuram Main Road
+B-25970,22-01-2018,Rhea,Sullurpet, Sriharikota
+B-25878,24-11-2018,Mrinal,Sullurpet, Sriharikota
+B-26057,10-03-2018,Sharda,Vakadu ,Vakadu Beachside Area
+B-25885,28-11-2018,Shatayu,Chillakur,Vakadu Beachside
+B-25897,06-12-2018,Rohan,Chillakur,Vakadu Beachside
+B-25756,20-08-2018,Mohan,Sullurpet, Sriharikota
+B-25859,14-11-2018,Chikku,Chillakur,Vakadu Beachside
+B-25691,16-06-2018,Akancha,Sullurpet, Sriharikota
+B-25633,26-04-2018,Amit,Buchireddypalem,Buchireddypalem Village
+B-25708,01-07-2018,Kishwar,Chillakur,Vakadu Beachside
+B-25831,27-10-2018,Mahima,Buchireddypalem,Buchireddypalem Village
+B-25856,10-11-2018,Abhijeet,Sullurpet, Sriharikota
+B-25893,04-12-2018,Vrinda,Gudur,Prakash Nagar
+B-25959,18-01-2018,Muskan,Chillakur,Vakadu Beachside
+B-26000,06-02-2018,Shubham,Kavali,Gandhi Nagar
+B-26097,28-03-2018,Vini,Manubolu,Manubolu Market Area
+B-25745,09-08-2018,Kartik,Atmakur,Marripadu Road
+B-25974,25-01-2018,Manisha,Chejerla,Ramalayam Street 
+B-25670,25-05-2018,Charika,Rapur,Rapur
+B-25848,03-11-2018,Rohan,Naidupet, Naidupet Town Center
+B-25888,02-12-2018,Rohan,Tada,Tada Industrial Hub
+B-25942,08-01-2018,Ankur,Nellore,Vedayapalem
+B-25847,03-11-2018,Aniket,Udayagiri,ada Industrial Hub
+B-25636,26-04-2018,Nishi,Sullurpet, Sriharikota
+B-25826,22-10-2018,Tanushree,Sullurpet, Sriharikota
+B-26081,22-03-2018,Aarushi,Vidavalur,Vidavalur Rural Zone
+B-25625,23-04-2018,Pinky,Udayagiri,Udayagiri Town
+B-25802,05-10-2018,Yash,Sullurpet, Sriharikota
+B-25693,18-06-2018,Parna,Chillakur,Chillakur Junction
+B-25796,24-09-2018,Sukrith,Sullurpet, Sriharikota
+B-25806,06-10-2018,Dhanraj,Chillakur,Vakadu Beachside
+B-25710,05-07-2018,Megha,Sullurpet,Indira Nagar
+B-25669,25-05-2018,Piyali,Buchireddypalem,Buchireddypalem Village
+B-25857,10-11-2018,Anand,Chillakur,Vakadu Beachside
+B-25785,15-09-2018,Ayush,Sydapuram,Sydapuram Main Road
+B-25930,03-01-2018,Monica,Tada,ada Industrial Hub
+B-26053,09-03-2018,Kirti,Udayagiri,Udayagiri Town
+B-26070,18-03-2018,Shruti,Manubolu,Manubolu Market Area
+B-25791,24-09-2018,Avish,Vakadu ,Vakadu Beachside Area
+B-25983,30-01-2018,Atul,Kavali,Gandhi Nagar
+B-25979,27-01-2018,Shivangi,Chillakur,Vakadu Beachside
+B-26054,10-03-2018,Mayank,Sullurpet, Sriharikota
+B-26078,22-03-2018,Kasheen,Sydapuram,Sydapuram Main Road
+B-25787,20-09-2018,Asish,Udayagiri,Udayagiri Town
+B-25682,07-06-2018,Krutika,Venkatagiri,Venkatagiri Fort Area
+B-25962,19-01-2018,Tejeswini,Sullurpet,Indira Nagar
+B-25750,14-08-2018,Priyanshu,Chillakur,Vakadu Beachside
+B-25828,24-10-2018,Nikita,Tada,ada Industrial Hub
+B-25622,22-04-2018,Monisha,Chejerla,Chejerla Town Center
+B-25751,14-08-2018,Nishant,Sullurpet, Sriharikota
+B-25685,10-06-2018,Sheetal,Chillakur,Vakadu Beachside
+B-26010,11-02-2018,Kartikay,Venkatagiri,Venkatagiri Fort Area
+B-26035,23-02-2018,Pinky,Udayagiri,Udayagiri Town
+B-25698,23-06-2018,Amisha,Vidavalur,Vidavalur Rural Zone
+B-25966,21-01-2018,Soumya,Chejerla,Ramalayam Street 
+B-25832,28-10-2018,Harshita,Sullurpet, Sriharikota
+B-25743,07-08-2018,Aman,Muthukur,Muthukur Port Area
+B-25886,28-11-2018,Brijesh,Chejerla,Ramalayam Street 
+B-25975,25-01-2018,Priyanka,Gudur,Haranadhapuram
+B-26098,29-03-2018,Pinky,Udayagiri,Udayagiri Town
+B-25614,13-04-2018,Vandana,Naidupet, Naidupet Town Center
+B-25726,21-07-2018,Kiran,Sullurpet, Sriharikota
+B-26050,06-03-2018,Paridhi,Chejerla,Chejerla Town Center
+B-25609,09-04-2018,Jitesh,Gudur,Malvya Nagar
+B-25741,03-08-2018,Navdeep,Chillakur,Vakadu Beachside
+B-25956,17-01-2018,Shreya,Sullurpet, Sriharikota
+B-25689,14-06-2018,Bhaggyasree,Sullurpet, Sriharikota
+B-25939,05-01-2018,Vineet,Buchireddypalem,Buchireddypalem Village
+B-25890,04-12-2018,Divyansha,Sullurpet, Sriharikota
+B-25814,10-10-2018,Swapnil,Chillakur,Vakadu Beachside
+B-25718,12-07-2018,Anjali,Sullurpet, Sriharikota
+B-25914,18-12-2018,Kajal,Kavali,Gandhi Nagar
+B-25903,10-12-2018,Amlan,Chillakur,Vakadu Beachside
+B-26096,28-03-2018,Atharv,Sydapuram,Sydapuram Main Road
+B-25654,10-05-2018,Sabah,Sullurpet, Sriharikota
+B-26076,21-03-2018,Jahan,Chillakur,Chillakur Junction
+B-25961,18-01-2018,Surbhi,Atmakur,Marripadu Road
+B-25854,08-11-2018,Shubham,Sullurpet,Indira Nagar
+B-25642,28-04-2018,Ajay,Manubolu,Manubolu Market Area
+B-25683,08-06-2018,Shreya,Vakadu ,Vakadu Beachside Area
+B-26016,14-02-2018,Hazel,Manubolu,Manubolu Market Area
+B-26034,23-02-2018,Vini,Manubolu,Manubolu Market Area
+B-26056,10-03-2018,Sonal,Venkatagiri,Venkatagiri Fort Area
+B-25819,15-10-2018,Ankur,Chillakur,Chillakur Junction
+B-25715,10-07-2018,Srishti,Udayagiri,Udayagiri Town
+B-25933,04-01-2018,Shikhar,Sullurpet, Sriharikota
+B-26014,13-02-2018,Divsha,Chejerla,Chejerla Town Center
+B-25655,11-05-2018,Nida,Chillakur,Vakadu Beachside
+B-25816,12-10-2018,Mane,Nellore,Vedayapalem
+B-25634,26-04-2018,Sanjay,Rapur,Rapur
+B-25895,04-12-2018,Sathya,Atmakur,Marripadu Road
+B-25687,11-06-2018,Sanjna,Sullurpet, Sriharikota
+B-25662,17-05-2018,Sweta,Sullurpet, Sriharikota
+B-25635,26-04-2018,Nidhi,Muthukur,Muthukur Port Area
+B-26060,13-03-2018,Chirag,Sullurpet, Sriharikota
+B-26045,03-03-2018,Nidhi,Muthukur,Muthukur Port Area
+B-25770,02-09-2018,Sakshi,Chillakur,Vakadu Beachside
+B-25744,08-08-2018,Devendra,Nellore,Vedayapalem
+B-25618,18-04-2018,Manju,Nellore,Vedayapalem
+B-25958,18-01-2018,Aparajita,Sydapuram,Sydapuram Main Road
+B-25769,02-09-2018,Surbhi,Sullurpet, Sriharikota
+B-25619,18-04-2018,Ramesh,Atmakur,Marripadu Road
+B-25688,11-06-2018,Swetha,Chillakur,Vakadu Beachside
+B-25829,25-10-2018,Apoorva,Udayagiri,ada Industrial Hub
+B-26036,23-02-2018,Bhishm,Sullurpet, Sriharikota
+B-25714,09-07-2018,Stuti,Manubolu,Manubolu Market Area
+B-25989,01-02-2018,Anjali,Kavali,Gandhi Nagar
+B-25849,04-11-2018,K,Buchireddypalem,Buchireddypalem Village
+B-25851,06-11-2018,Kushal,Muthukur,Muthukur Port Area
+B-25782,15-09-2018,Aayushi,Sullurpet, Sriharikota
+B-25621,20-04-2018,Deepak,Chillakur,Chillakur Junction
+B-25996,04-02-2018,Prashant,Kavali,Gandhi Nagar
+B-25678,03-06-2018,Bathina,Manubolu,Manubolu Market Area
+B-25727,22-07-2018,Turumella,Chillakur,Vakadu Beachside
+B-26018,14-02-2018,Aarushi,Vidavalur,Vidavalur Rural Zone
+B-25760,24-08-2018,Pooja,Rapur,Rapur
+B-25804,05-10-2018,Sudheer,Manubolu,Manubolu Market Area
+B-25754,18-08-2018,Akshay,Venkatagiri,Venkatagiri Fort Area
+B-26020,16-02-2018,Yogesh,Venkatagiri,Venkatagiri Fort Area
+B-25640,27-04-2018,Paridhi,Chejerla,Chejerla Town Center
+B-25789,22-09-2018,Akshay,Gudur,Malvya Nagar
+B-26072,20-03-2018,Sweta,Sullurpet, Sriharikota
+B-26007,09-02-2018,Shubham,Udayagiri,Udayagiri Town
+B-26087,26-03-2018,Vandana,Naidupet, Naidupet Town Center
+B-25617,17-04-2018,Sagar,Muthukur,Muthukur Port Area
+B-25984,30-01-2018,Kajal,Kavali,Gandhi Nagar
+B-25767,31-08-2018,Ashmeet,Sydapuram,Sydapuram Main Road
+B-25987,31-01-2018,Manjiri,Kavali,Gandhi Nagar
+B-25840,31-10-2018,Sneha,Manubolu,Manubolu Market Area
+B-25663,19-05-2018,Pournamasi,Chillakur,Vakadu Beachside
+B-26030,21-02-2018,Sarita,Sullurpet,Indira Nagar
+B-25947,13-01-2018,Chetan,Atmakur,Marripadu Road
+B-25896,05-12-2018,Aman,Sullurpet, Sriharikota
+B-26009,10-02-2018,Komal,Gudur,Malvya Nagar
+B-25876,24-11-2018,Bhosale,Tada,Tada Industrial Hub
+B-25915,19-12-2018,Sukruta,Tada,Tada Industrial Hub
+B-25795,24-09-2018,Sukant,Buchireddypalem,Buchireddypalem Village
+B-26002,08-02-2018,Harsh,Kavali,Gandhi Nagar
+B-25645,01-05-2018,Yaanvi,Chillakur,Vakadu Beachside
+B-25837,29-10-2018,Palak,Sullurpet, Sriharikota
+B-25612,12-04-2018,Shrichand,Tada,ada Industrial Hub
+B-25812,10-10-2018,Kshitij,Chillakur,Vakadu Beachside
+B-25843,03-11-2018,Mrunal,Sullurpet, Sriharikota
+B-26026,19-02-2018,Kanak,Rapur,Rapur
+B-25773,06-09-2018,Shreya,Vakadu ,Vakadu Beachside Area
+B-25875,24-11-2018,Divyeshkumar,Gudur,Haranadhapuram
+B-25660,16-05-2018,Shruti,Manubolu,Manubolu Market Area
+B-25918,22-12-2018,Karandeep,Chillakur,Vakadu Beachside
+B-25971,22-01-2018,Mitali,Chillakur,Vakadu Beachside
+B-26063,15-03-2018,Farah,Muthukur,Muthukur Port Area
+B-25867,17-11-2018,Ankit,Buchireddypalem,Buchireddypalem Village
+B-25703,28-06-2018,Ekta,Chillakur,Vakadu Beachside
+B-25661,17-05-2018,Subhashree,Udayagiri,Udayagiri Town
+B-25748,12-08-2018,Nitant,Chejerla,Chejerla Town Center
+B-25766,30-08-2018,Surabhi,Chejerla,Chejerla Town Center
+B-25861,15-11-2018,Aayush,Gudur,Malvya Nagar
+B-26058,11-03-2018,Aditya,Tada,ada Industrial Hub
+B-25808,08-10-2018,Apsingekar,Venkatagiri,Venkatagiri Fort Area
+B-25900,09-12-2018,Anand,Tada,Tada Industrial Hub
+B-26084,25-03-2018,Anita,Vakadu ,Vakadu Beachside Area
+B-25652,08-05-2018,Tushina,Rapur,Rapur
+B-26008,09-02-2018,Kalyani,Vidavalur,Vidavalur Rural Zone
+B-25799,01-10-2018,Divyansh,Atmakur,Marripadu Road
+B-25927,31-12-2018,Shreya,Gudur,Malvya Nagar
+B-25985,31-01-2018,Ginny,Chillakur,Vakadu Beachside
+B-25994,03-02-2018,Omkar,Kavali,Gandhi Nagar
+B-25620,20-04-2018,Sarita,Sullurpet,Indira Nagar
+B-25712,07-07-2018,Adhvaita,Chejerla,Chejerla Town Center
+B-25976,25-01-2018,Piyam,Tada,Tada Industrial Hub
+B-26068,16-03-2018,Shefali,Chejerla,Chejerla Town Center
+B-25721,16-07-2018,Anchal,Udayagiri,ada Industrial Hub
+B-25863,15-11-2018,Manibalan,Vakadu ,Vakadu Beachside Area
+B-25991,03-02-2018,Mansi,Chillakur,Vakadu Beachside
+B-25737,01-08-2018,Shubham,Chillakur,Vakadu Beachside
+B-26043,01-03-2018,Amit,Buchireddypalem,Buchireddypalem Village
+B-25977,27-01-2018,Aayushi,Atmakur,Marripadu Road
+B-25908,12-12-2018,Pradeep,Kavali,Gandhi Nagar
+B-25941,07-01-2018,Jaideep,Muthukur,Muthukur Port Area
+B-25794,24-09-2018,Aditya,Naidupet, Naidupet Town Center
+B-26041,27-02-2018,Ritu,Udayagiri,ada Industrial Hub
+B-25695,18-06-2018,Suhani,Sydapuram,Sydapuram Main Road
+B-25960,18-01-2018,Shreya,Nellore,Vedayapalem
+B-26037,23-02-2018,Hitika,Chillakur,Vakadu Beachside
+B-25921,25-12-2018,Sandra,Tada,Tada Industrial Hub
+B-25944,10-01-2018,Syed,Sullurpet,Indira Nagar
+B-25724,19-07-2018,Sheetal,Chillakur,Vakadu Beachside
+B-26024,19-02-2018,Vandana,Naidupet, Naidupet Town Center
+B-25694,18-06-2018,Subhasmita,Chejerla,Chejerla Town Center
+B-25665,21-05-2018,Chayanika,Vakadu ,Vakadu Beachside Area
+B-26004,08-02-2018,Nandita,Chejerla,Chejerla Town Center
+B-25611,11-04-2018,Anita,Vakadu ,Vakadu Beachside Area
+B-25901,10-12-2018,Suraj,Atmakur,Marripadu Road
+B-25623,22-04-2018,Atharv,Sydapuram,Sydapuram Main Road
+B-25713,08-07-2018,Raksha,Sydapuram,Sydapuram Main Road
+B-26091,27-03-2018,Manju,Nellore,Vedayapalem
+B-25604,03-04-2018,Divsha,Chejerla,Chejerla Town Center
+B-25827,23-10-2018,Sheetal,Chillakur,Vakadu Beachside
+B-25835,29-10-2018,Moumita,Atmakur,Marripadu Road
+B-26025,19-02-2018,Bhavna,Buchireddypalem,Buchireddypalem Village
+B-25809,09-10-2018,Suman,Vakadu ,Vakadu Beachside Area
+B-25905,11-12-2018,Bhargav,Kavali,Gandhi Nagar
+B-25948,13-01-2018,Mukund,Sullurpet,Indira Nagar
+B-26094,27-03-2018,Deepak,Chillakur,Chillakur Junction
+B-25949,13-01-2018,Shantanu,Sullurpet, Sriharikota
+B-26001,07-02-2018,Patil,Kavali,Gandhi Nagar
+B-25771,02-09-2018,Vaibhavi,Gudur,Malvya Nagar
+B-25659,15-05-2018,Sanskriti,Sydapuram,Sydapuram Main Road
+B-25924,28-12-2018,Prajakta,Manubolu,Manubolu Market Area
+B-25883,27-11-2018,Saptadeep,Atmakur,Marripadu Road
+B-25946,12-01-2018,Saurabh,Nellore,Vedayapalem
+B-26065,16-03-2018,Nida,Chillakur,Vakadu Beachside
+B-26083,24-03-2018,Yogesh,Venkatagiri,Venkatagiri Fort Area
+B-25725,20-07-2018,Anisha,Muthukur,Muthukur Port Area
+B-25630,24-04-2018,Sahil,Tada,ada Industrial Hub
+B-25673,28-05-2018,Arsheen,Atmakur,Marripadu Road
+B-25692,17-06-2018,Rashmi,Chillakur,Vakadu Beachside
+B-25992,03-02-2018,Gaurav,Chejerla,Ramalayam Street 
+B-25765,29-08-2018,Meghana,Chillakur,Chillakur Junction
+B-25892,04-12-2018,Aditi,Chejerla,Ramalayam Street 
+B-26089,26-03-2018,Kanak,Rapur,Rapur
+B-25780,13-09-2018,Teena,Nellore,Vedayapalem
+B-25684,09-06-2018,Samiksha,Sullurpet, Sriharikota
+B-25739,03-08-2018,Daksh,Udayagiri,ada Industrial Hub
+B-25731,26-07-2018,Akash,Sydapuram,Sydapuram Main Road
+B-25648,04-05-2018,Aditya,Tada,ada Industrial Hub
+B-26038,24-02-2018,Pooja,Venkatagiri,Venkatagiri Fort Area
+B-25700,25-06-2018,Shubhi,Sullurpet, Sriharikota
+B-26015,14-02-2018,Kasheen,Sydapuram,Sydapuram Main Road
+B-25704,29-06-2018,Riya,Sullurpet, Sriharikota
+B-25811,10-10-2018,Utsav,Sullurpet, Sriharikota
+B-25821,16-10-2018,Ajay,Sydapuram,Sydapuram Main Road
+B-25874,24-11-2018,Megha,Chejerla,Ramalayam Street 
+B-25668,24-05-2018,Rhea,Naidupet, Naidupet Town Center
+B-25800,01-10-2018,Ishit,Sullurpet,Indira Nagar
+B-25928,01-01-2018,Smriti,Venkatagiri,Venkatagiri Fort Area
+B-26021,17-02-2018,Anita,Vakadu ,Vakadu Beachside Area
+B-26064,16-03-2018,Ankita,Sullurpet, Sriharikota
+B-25882,26-11-2018,Masurkar,Tada,Tada Industrial Hub
+B-25891,04-12-2018,Shivani,Chillakur,Vakadu Beachside
+B-25820,16-10-2018,Dheeraj,Chejerla,Chejerla Town Center
+B-25889,03-12-2018,Abhishek,Atmakur,Marripadu Road
+B-25871,21-11-2018,Gunjal,Atmakur,Marripadu Road
+B-25637,26-04-2018,Ashmi,Chillakur,Vakadu Beachside
+B-25616,15-04-2018,Kanak,Rapur,Rapur
+B-25972,23-01-2018,Jesslyn,Chejerla,Ramalayam Street 
+B-25805,05-10-2018,Ankit,Sullurpet, Sriharikota
+B-25860,15-11-2018,Akshay,Vidavalur,Vidavalur Rural Zone
+B-26080,22-03-2018,Sonakshi,Udayagiri,Udayagiri Town
+B-25807,07-10-2018,Vipul,Gudur,Malvya Nagar
+B-25734,29-07-2018,Pranav,Chillakur,Vakadu Beachside
+B-25880,24-11-2018,Apoorv,Chejerla,Ramalayam Street 
+B-25934,04-01-2018,Rahul,Chillakur,Vakadu Beachside
+B-25913,17-12-2018,Geetanjali,Kavali,Gandhi Nagar
+B-25912,16-12-2018,Preksha,Kavali,Gandhi Nagar
+B-25824,20-10-2018,Shyam,Chillakur,Vakadu Beachside
+B-25711,06-07-2018,Sakshi,Chillakur,Chillakur Junction
+B-25864,15-11-2018,Aromal,Sullurpet, Sriharikota
+B-25917,21-12-2018,Sanjay,Sullurpet, Sriharikota
+B-26049,05-03-2018,Lisha,Chillakur,Chillakur Junction
+B-25920,24-12-2018,Jayanti,Gudur,Haranadhapuram
+B-25699,24-06-2018,Kritika,Gudur,Malvya Nagar
+B-25735,30-07-2018,Arindam,Gudur,Malvya Nagar
+B-25701,26-06-2018,Maithilee,Chillakur,Vakadu Beachside
+B-26092,27-03-2018,Ramesh,Atmakur,Marripadu Road
+B-26082,23-03-2018,Jitesh,Gudur,Malvya Nagar
+B-25818,14-10-2018,Sandeep,Chillakur,Vakadu Beachside
+B-25846,03-11-2018,Soodesh,Tada,ada Industrial Hub
+B-26011,12-02-2018,Bharat,Atmakur,Marripadu Road
+B-25631,24-04-2018,Ritu,Udayagiri,ada Industrial Hub
+B-25606,06-04-2018,Hazel,Manubolu,Manubolu Market Area
+B-25746,10-08-2018,Shivam,Sullurpet,Indira Nagar
+B-26005,08-02-2018,Parnavi,Sydapuram,Sydapuram Main Road
+B-25844,03-11-2018,Swati,Chillakur,Vakadu Beachside
+B-25869,19-11-2018,Parakh,Muthukur,Muthukur Port Area
+B-26066,16-03-2018,Priyanka,Sullurpet,Indira Nagar
+B-25865,15-11-2018,Arun,Chillakur,Vakadu Beachside
+B-26039,25-02-2018,Hemant,Vakadu ,Vakadu Beachside Area
+B-25916,20-12-2018,Utkarsh,Atmakur,Marripadu Road
+B-26090,27-03-2018,Sagar,Muthukur,Muthukur Port Area
+B-25988,31-01-2018,Nirja,Kavali,Gandhi Nagar
+B-25906,11-12-2018,Abhijit,Kavali,Gandhi Nagar
+B-26017,14-02-2018,Sonakshi,Udayagiri,Udayagiri Town
+B-25644,30-04-2018,Mayank,Sullurpet, Sriharikota
+B-25679,04-06-2018,Avni,Sullurpet, Sriharikota
+B-25723,18-07-2018,Wale,Sullurpet, Sriharikota
+B-25605,05-04-2018,Kasheen,Sydapuram,Sydapuram Main Road
+B-25792,24-09-2018,Abhishek,Sullurpet, Sriharikota
+B-25680,04-06-2018,Aayushi,Chillakur,Vakadu Beachside
+B-25931,04-01-2018,Sidharth,Sullurpet, Sriharikota
+B-25932,04-01-2018,Bhutekar,Chillakur,Vakadu Beachside
+B-25990,02-02-2018,Mugdha,Kavali,Gandhi Nagar
+B-25615,15-04-2018,Bhavna,Buchireddypalem,Buchireddypalem Village
+B-26031,22-02-2018,Deepak,Chillakur,Chillakur Junction
+B-25801,01-10-2018,Aryan,Chillakur,Chillakur Junction
+B-25833,29-10-2018,Krishna,Chillakur,Vakadu Beachside
+B-26077,22-03-2018,Divsha,Chejerla,Chejerla Town Center
+B-25936,05-01-2018,Nikhil,Tada,ada Industrial Hub
+B-25938,05-01-2018,Shikhar,Naidupet, Naidupet Town Center
+B-25716,11-07-2018,Surabhi,Vidavalur,Vidavalur Rural Zone
+B-25740,03-08-2018,Rane,Sullurpet, Sriharikota
+B-25763,27-08-2018,Noshiba,Atmakur,Marripadu Road
+B-25872,22-11-2018,Saurabh,Sullurpet, Sriharikota
+B-25879,24-11-2018,Siddharth,Chillakur,Vakadu Beachside
+B-25926,30-12-2018,Dipali,Chillakur,Vakadu Beachside
+B-26074,21-03-2018,Bharat,Atmakur,Marripadu Road
+B-25627,23-04-2018,Hitika,Chillakur,Vakadu Beachside
+B-25940,06-01-2018,Vivek,Rapur,Rapur
+B-26047,04-03-2018,Ashmi,Chillakur,Vakadu Beachside
+B-26069,17-03-2018,Sanskriti,Sydapuram,Sydapuram Main Road
+B-26027,20-02-2018,Sagar,Muthukur,Muthukur Port Area
+B-25963,19-01-2018,Pratiksha,Sullurpet, Sriharikota
+B-25922,26-12-2018,Akshata,Atmakur,Marripadu Road
+B-25866,16-11-2018,Komal,Naidupet, Naidupet Town Center
+B-25607,06-04-2018,Sonakshi,Udayagiri,Udayagiri Town
+B-25775,08-09-2018,Duhita,Udayagiri,ada Industrial Hub
+B-25998,04-02-2018,Anmol,Chejerla,Ramalayam Street 
+B-26062,15-03-2018,Tushina,Rapur,Rapur
+B-25722,17-07-2018,Inderpreet,Naidupet, Naidupet Town Center
+B-25776,09-09-2018,Mousam,Sullurpet, Sriharikota
+B-26032,22-02-2018,Monisha,Chejerla,Chejerla Town Center
+B-25705,30-06-2018,Shweta,Chillakur,Vakadu Beachside
+B-25628,24-04-2018,Pooja,Venkatagiri,Venkatagiri Fort Area
+B-25733,28-07-2018,Dhirajendu,Sullurpet, Sriharikota
+B-25647,03-05-2018,Sharda,Vakadu ,Vakadu Beachside Area
+B-25790,23-09-2018,Sajal,Venkatagiri,Venkatagiri Fort Area
+B-25709,01-07-2018,Aakanksha,Chillakur,Vakadu Beachside
+B-25911,15-12-2018,Phalguni,Chillakur,Chillakur Junction
+B-25774,07-09-2018,Snehal,Tada,ada Industrial Hub
+B-26042,28-02-2018,Manish,Naidupet, Naidupet Town Center
+B-25815,10-10-2018,Harsh,Muthukur,Muthukur Port Area
+B-25822,18-10-2018,Tejas,Manubolu,Manubolu Market Area
+B-26075,21-03-2018,Pearl,Sullurpet,Indira Nagar
+B-25783,15-09-2018,Shivangi,Chillakur,Vakadu Beachside
+B-26046,04-03-2018,Nishi,Sullurpet, Sriharikota
+B-25690,15-06-2018,Gunjan,Chillakur,Vakadu Beachside
+B-25706,01-07-2018,Swetlana,Rapur,Rapur
+B-25736,31-07-2018,Akshat,Sullurpet, Sriharikota
+B-25720,15-07-2018,Namrata,Tada,ada Industrial Hub
+B-25907,11-12-2018,Jaydeep,Chillakur,Chillakur Junction
+B-25719,12-07-2018,Rashmi,Chillakur,Vakadu Beachside
+B-26013,13-02-2018,Jahan,Chillakur,Chillakur Junction
+B-26044,02-03-2018,Sanjay,Rapur,Rapur
+B-25649,05-05-2018,Rachna,Udayagiri,ada Industrial Hub
+B-25658,14-05-2018,Shefali,Chejerla,Chejerla Town Center
+B-25672,28-05-2018,Akanksha,Nellore,Indira Nagar
+B-25624,22-04-2018,Vini,Manubolu,Manubolu Market Area
+B-25884,28-11-2018,Sumeet,Sullurpet, Sriharikota
+B-25641,27-04-2018,Parishi,Sydapuram,Sydapuram Main Road
+B-25841,01-11-2018,Ashvini,Sullurpet, Sriharikota
+B-25980,27-01-2018,Shweta,Chejerla,Ramalayam Street 
+B-26012,13-02-2018,Pearl,Sullurpet,Indira Nagar
+B-26029,20-02-2018,Ramesh,Atmakur,Marripadu Road
+B-26071,19-03-2018,Subhashree,Udayagiri,Udayagiri Town
+B-25646,01-05-2018,Sonal,Venkatagiri,Venkatagiri Fort Area
+B-25677,02-06-2018,Ekta,Sydapuram,Sydapuram Main Road
+B-25759,23-08-2018,Soumya,Buchireddypalem,Buchireddypalem Village
+B-26059,12-03-2018,Rachna,Udayagiri,ada Industrial Hub
+B-25632,25-04-2018,Manish,Naidupet, Naidupet Town Center
+B-26079,22-03-2018,Hazel,Manubolu,Manubolu Market Area
+B-25674,28-05-2018,Mahima,Sullurpet,Indira Nagar
+B-25965,21-01-2018,Saloni,Sydapuram,Sydapuram Main Road
+B-25732,27-07-2018,Anubhaw,Manubolu,Manubolu Market Area
+B-25834,29-10-2018,Ananya,Nellore,Vedayapalem
+B-25784,15-09-2018,Rohit,Chejerla,Chejerla Town Center
+B-25982,29-01-2018,Hemangi,Kavali,Gandhi Nagar
+B-25788,21-09-2018,Dinesh,Vidavalur,Vidavalur Rural Zone
+B-25742,03-08-2018,Ashwin,Rapur,Rapur
+B-26088,26-03-2018,Bhavna,Buchireddypalem,Buchireddypalem Village
+B-25707,01-07-2018,Shivani,Sullurpet, Sriharikota
+B-25758,22-08-2018,Shubham,Naidupet, Naidupet Town Center
+B-26095,28-03-2018,Monisha,kovur,Chejerla Town Center
