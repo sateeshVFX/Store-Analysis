@@ -95,7 +95,7 @@ The dashboard includes various visualizations designed to provide insights, such
 ---
 
 ## Sample Dashboard
-![Dashboard Image](https://github.com/sateeshVFX/Store-Analysis/blob/main/Dashboard.png)  <!-- Replace with a link to your actual dashboard image -->
+![Dashboard Image](https://github.com/sateeshVFX/Store-Analysis/blob/main/dashboard.png)  <!-- Replace with a link to your actual dashboard image -->
 
 ---
 
