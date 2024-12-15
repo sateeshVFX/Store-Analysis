@@ -1,4 +1,4 @@
-# Sateesh Store-Insights 📊
+# Store-Insights 📊
 
 ![Project Logo](https://github.com/sateeshVFX/Store-Analysis/blob/main/Retail-Store.jpeg)  <!-- Replace with a relevant image or logo URL -->
 
