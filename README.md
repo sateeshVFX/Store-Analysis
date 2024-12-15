@@ -1,6 +1,6 @@
 # Sateesh Store-Insights 📊
 
-![Project Logo](https://example.com/your-logo.png)  <!-- Replace with a relevant image or logo URL -->
+![Project Logo](https://github.com/sateeshVFX/Store-Analysis/blob/main/Retail-Store.jpeg)  <!-- Replace with a relevant image or logo URL -->
 
 ## Project Overview 🌟
 
