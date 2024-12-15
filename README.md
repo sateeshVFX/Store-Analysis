@@ -4,21 +4,19 @@
 
 ## Project Overview 🌟
 
-The **Sateesh Store-Insights** project aims to create a unified dashboard using two datasets—`Orders.csv` and `Details.csv`—to deliver insightful analysis on market operations. The project evaluates revenue trends, category performance, and customer behavior, enabling data-driven decision-making.
+The **Store-Insights** project aims to create a unified dashboard using two datasets—`Orders.csv` and `Details.csv`—to deliver insightful analysis on market operations. The project evaluates revenue trends, category performance, and customer behavior, enabling data-driven decision-making.
 
 ---
 
-## Datasets 📂
-
-### Datasets Collected:
-- **[Orders.csv](https://example.com/orders.csv)**: Contains order-level details including:
+### Datasets 📂:
+- **[Orders.csv](https://github.com/sateeshVFX/Store-Analysis/blob/main/Orders.csv)**: Contains order-level details including:
   - `Order ID`
   - `Order Date`
   - `Customer Name`
   - `City`
   - `PaymentMode`
 
-- **[Details.csv](https://example.com/details.csv)**: Contains item-level details including:
+- **[Details.csv](https://github.com/sateeshVFX/Store-Analysis/blob/main/Details.csv)**: Contains item-level details including:
   - `Order ID`
   - `Category`
   - `Amount`
@@ -82,3 +80,33 @@ A collection of SQL queries used for analysis:
 9. SELECT * FROM Orders WHERE YEAR(STR_TO_DATE(`Order Date`, '%d-%m-%Y')) = 2018;
 
 10. SELECT o.City, SUM(d.Profit) AS Total_Profit FROM Details d JOIN Orders o ON d.`Order ID` = o.`Order ID` GROUP BY o.City;
+```
+
+# Power BI Visualizations 📊
+
+The dashboard includes various visualizations designed to provide insights, such as:
+
+- **Total Sales Trend over time** (Line Chart)
+- **Profit Distribution by Category** (Bar Chart)
+- **Top 5 Cities by Total Sales** (Column Chart)
+- **Payment Mode Distribution** (Pie Chart)
+- **Sales by Locality** (Map Visualization)
+
+---
+
+## Sample Dashboard
+![Dashboard Image](https://github.com/sateeshVFX/Store-Analysis/blob/main/Dashboard.png)  <!-- Replace with a link to your actual dashboard image -->
+
+---
+
+## Dashboard Development 🚀
+
+### Steps Taken:
+1. **Importing the Dataset**: Loaded cleaned data into Power BI ensuring data integrity.
+2. **DAX Formulas**: Developed Key Performance Indicators (KPIs) such as Total Revenue, Average Profit, and YoY Growth.
+3. **Interactive Filters**: Implemented slicers for Category, City, and Order Date.
+4. **Final Presentation**: Delivered an interactive dashboard for stakeholders to explore data.
+
+---
+
+Thank you for reviewing this section of the project! Feel free to explore the visuals and the underlying data for deeper insights.
